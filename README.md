@@ -1,8 +1,14 @@
 # NYC Subway Fare Burden Analysis
 
-This project aims to analyze the fare burden and transit equity in New York City, using various datasets such as subway ridership data, NYPD arrests, and census data. The goal is to understand how different demographic groups are impacted by subway fares and identify potential disparities in fare burden.
+This project aims to analyze the fare burden and transit equity in New York City, using various datasets such as subway ridership data and census data. The goal is to understand how different demographic groups are impacted by subway fares and identify potential disparities in fare burden.
 
 ## Folder Structure
+├── data # Data files (raw and processed)
+│ ├── processed # Processed and cleaned data
+│ ├── raw # Raw, unprocessed data
+├── notebooks # Jupyter notebooks with analysis and modeling
+├── results # Final results and presentation
+└── README.md # Project documentation
 
 ## Data Sources
 
