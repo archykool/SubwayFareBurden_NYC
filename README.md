@@ -4,10 +4,15 @@ This project aims to analyze the fare burden and transit equity in New York City
 
 ## Folder Structure
 ├── data # Data files (raw and processed)
+
 │ ├── processed # Processed and cleaned data
+
 │ ├── raw # Raw, unprocessed data
+
 ├── notebooks # Jupyter notebooks with analysis and modeling
+
 ├── results # Final results and presentation
+
 └── README.md # Project documentation
 
 ## Data Sources
